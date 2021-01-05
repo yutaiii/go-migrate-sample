@@ -1,2 +1,2 @@
 DROP TABLE IF EXISTS
-    sample_db.sample;
+sample_db.sample;
